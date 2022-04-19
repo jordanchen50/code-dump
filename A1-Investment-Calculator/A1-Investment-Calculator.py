@@ -79,4 +79,4 @@ elif investment == "bonds":
 # Catch any unexpected inputs for the financial calculator 
 else:
     print("Sorry, this investment calcualtor does not support " + investment + ". Please try again and use savings, CD, mutual funds, or bonds.")
-
+    
